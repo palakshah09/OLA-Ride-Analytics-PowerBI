@@ -4,6 +4,7 @@
 - Excel (Data Cleaning)
 - Power BI
 - DAX
+- SQL
 
 ## Project Description
 Developed an interactive Power BI dashboard to analyze OLA ride booking data, focusing on ride completion, cancellations, revenue trends, and payment behavior.
